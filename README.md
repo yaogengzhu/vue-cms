@@ -34,25 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## **项目预览**
 
-![1551268939660](E:\project\my-project\letao\src\assets\img\1551268939660.png)
 
-![1551268999761](E:\project\my-project\letao\src\assets\img\1551268999761.png)
-
-![1551269011432](E:\project\my-project\letao\src\assets\img\1551269011432.png)
-
-![1551269021213](E:\project\my-project\letao\src\assets\img\1551269021213.png)
-
-![1551269030287](E:\project\my-project\letao\src\assets\img\1551269030287.png)
-
-![1551269040864](E:\project\my-project\letao\src\assets\img\1551269040864.png)
-
-![1551269061656](E:\project\my-project\letao\src\assets\img\1551269061656.png)
-
-![1551269078573](E:\project\my-project\letao\src\assets\img\1551269078573.png)
-
-![1551269163719](E:\project\my-project\letao\src\assets\img\1551269163719.png)
-
-
+项目图片预览见 src/assets/img
 
 
 
