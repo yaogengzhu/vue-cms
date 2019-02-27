@@ -33,9 +33,17 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## **项目预览**
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551268939660.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551268999761.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551269011432.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551269030287.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551269061656.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551269078573.png)
+![image](https://github.com/yaogengzhu/vue-cms/blob/master/src/assets/img/1551269163719.png)
 
 
-项目图片预览见 src/assets/img
+
+
 
 
 
