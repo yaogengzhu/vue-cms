@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:8888/api/private/v1/';
+const baseUrl = 'http://yaogeng.ltd/api/private/v1/';
 axios.defaults.baseURL = baseUrl;
 
 

@@ -54,7 +54,7 @@
             <span style="margin-left: 10px">{{ scope.row.is_promote == true ?'是':'否' }}</span>
           </template>
         </el-table-column>
-        <el-table-column fixed="right" label="操作" align="center">
+        <el-table-column fixed="right" label="操作" align="center" width="200px">
           <template slot-scope="scope">
             <el-button
               type="primary"

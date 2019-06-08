@@ -20,6 +20,7 @@
         <el-button type="primary" class="login-button" @click="check('form')">登录</el-button>
       </el-form-item>
     </el-form>
+
   </div>
 </template>
 
@@ -31,8 +32,8 @@ export default {
   data() {
     return {
       form: {
-        username: "",
-        password: ""
+        username: "admin",
+        password: "123456"
       },
       rules: {
         username: [{ required: true, message: "请输入", trigger: "blur" }],
